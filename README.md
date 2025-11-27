@@ -31,21 +31,23 @@ Tenho experiência acadêmica com **C, HTML, CSS** e sigo expandindo meus conhec
 
 ---
 
+### 🔹 Estatísticas do GitHub
+
 <div align="left">
-
-### 🔹 Estatísticas do GitHub  
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ArthurAlves06&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArthurAlves06&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=60"/>
 </div>
+
 
 ---
 
 ### 🔹 Tecnologias Mais Utilizadas
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlves06&layout=compact&theme=midnight-purple&hide_border=true"/>
+ <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlves06&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=60"/>
 </div>
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+
 
