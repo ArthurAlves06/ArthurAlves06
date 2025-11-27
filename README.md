@@ -1,6 +1,6 @@
-<img align="left" height="140" src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png"/>
 
-# **Arthur Alves**
+
+# 🧑‍💻**Arthur Alves**
 
 **Estudante de Engenharia de Software • Focado em Python • Apaixonado por Tecnologia**
 
@@ -31,8 +31,6 @@ Tenho experiência acadêmica com **C, HTML, CSS** e sigo expandindo meus conhec
 
 ---
 
-## 📊 **Estatísticas**
-
 <div align="left">
 
 ### 🔹 Estatísticas do GitHub  
@@ -42,7 +40,7 @@ Tenho experiência acadêmica com **C, HTML, CSS** e sigo expandindo meus conhec
 
 ---
 
-## 🧩 **Tecnologias Mais Utilizadas**
+### 🔹 Tecnologias Mais Utilizadas
 
 <div align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlves06&layout=compact&theme=midnight-purple&hide_border=true"/>
