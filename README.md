@@ -45,3 +45,7 @@ Tenho experiência acadêmica com **C, HTML, CSS** e sigo expandindo meus conhec
 <div align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlves06&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
+
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/matrix-code-rain.gif" width="600">
+
