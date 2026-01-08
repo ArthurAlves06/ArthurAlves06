@@ -10,7 +10,7 @@ Tenho experiência acadêmica com **C, HTML, CSS** e sigo expandindo meus conhec
 <div align="left">
   <img src="https://img.shields.io/badge/Projetos_Ativos-%236A5ACD?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Estudando_Python-%23FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Engenharia_de_Software_2025-%234B0082?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Engenharia_de_Software-%234B0082?style=for-the-badge&logoColor=white"/>
 </div>
 
 ---
