@@ -1,8 +1,8 @@
 # 🧑‍💻**Arthur Alves**
 
-**Estudante de Engenharia de Software • Focado em Python • Apaixonado por Tecnologia**
+**Estudante de Engenharia de Software • Focado em Python e Cibersegurança • Apaixonado por Tecnologia**
 
-Sou estudante de **Engenharia de Software** e atualmente estou aprofundando meus estudos em **Python**, sempre buscando evoluir através de projetos práticos e boas práticas de desenvolvimento.  
+Sou estudante de **Engenharia de Software** e atualmente estou aprofundando meus estudos em **Python** e **Cibersegurança**, sempre buscando evoluir através de projetos práticos e boas práticas de desenvolvimento.  
 Tenho experiência acadêmica com **C, HTML, CSS** e sigo expandindo meus conhecimentos para construir uma base cada vez mais sólida como desenvolvedor.
 
 ---
