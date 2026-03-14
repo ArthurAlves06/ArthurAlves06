@@ -5,7 +5,7 @@
 **Olá,tudo bem?**
 
 Sou estudante de **Engenharia de Software** e atualmente estou aprofundando meus estudos em **Python** e **Cibersegurança**, sempre buscando evoluir através de projetos práticos e boas práticas de desenvolvimento.  
-Tenho experiência acadêmica com **C, HTML, CSS** e sigo expandindo meus conhecimentos para construir uma base cada vez mais sólida como desenvolvedor.
+Tenho experiência acadêmica com **C, HTML, CSS, REACT, FIREBASE** e sigo expandindo meus conhecimentos para construir uma base cada vez mais sólida como desenvolvedor.
 
 ---
 
